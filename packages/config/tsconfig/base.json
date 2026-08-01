@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "target": "ES2023",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+
+    "strict": true,
+
+    "esModuleInterop": true,
+
+    "skipLibCheck": true,
+
+    "forceConsistentCasingInFileNames": true,
+
+    "resolveJsonModule": true,
+
+    "allowSyntheticDefaultImports": true,
+
+    "isolatedModules": true,
+
+    "noImplicitReturns": true,
+
+    "noUnusedLocals": true,
+
+    "noUnusedParameters": true,
+
+    "removeComments": false
+  }
+}

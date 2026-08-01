@@ -1,0 +1,11 @@
+{
+  "name": "@matchforge/api",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo \"API not initialized\"",
+    "build": "echo \"API build\"",
+    "lint": "echo \"API lint\"",
+    "test": "echo \"API test\""
+  }
+}

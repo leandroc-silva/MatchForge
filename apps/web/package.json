@@ -1,0 +1,11 @@
+{
+  "name": "@matchforge/web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo \"Web app not initialized\"",
+    "build": "echo \"Web build\"",
+    "lint": "echo \"Web lint\"",
+    "test": "echo \"Web test\""
+  }
+}
